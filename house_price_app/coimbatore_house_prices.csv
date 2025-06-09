@@ -1,0 +1,501 @@
+Area_sqft,BHK,Location,Furnishing,Parking,Age,Price_Lakhs
+2109,2,RS Puram,Fully-Furnished,No,7,119.71
+1257,2,Saibaba Colony,Fully-Furnished,Yes,18,58.94
+1664,2,RS Puram,Unfurnished,Yes,7,90.16
+1834,4,RS Puram,Fully-Furnished,Yes,20,88.97
+2236,4,Ukkadam,Unfurnished,No,18,67.3
+1369,2,Gandhipuram,Fully-Furnished,No,10,60.24
+1369,2,Peelamedu,Semi-Furnished,Yes,2,75.35
+1578,2,Singanallur,Semi-Furnished,No,1,73.07
+2294,3,Saibaba Colony,Semi-Furnished,Yes,17,102.68
+1400,4,Singanallur,Fully-Furnished,Yes,2,69.85
+893,4,Peelamedu,Semi-Furnished,Yes,7,44.03
+1006,3,Town Hall,Semi-Furnished,No,5,45.63
+1558,3,Peelamedu,Fully-Furnished,No,20,62.38
+946,4,Gandhipuram,Fully-Furnished,Yes,5,49.17
+1746,3,Town Hall,Fully-Furnished,Yes,10,77.44
+2373,2,Peelamedu,Unfurnished,No,12,93.78
+1348,2,Peelamedu,Fully-Furnished,No,6,67.85
+2142,3,Ukkadam,Fully-Furnished,No,4,93.21
+1342,2,Peelamedu,Fully-Furnished,No,18,53.73
+1677,4,Ukkadam,Semi-Furnished,Yes,4,73.14
+1843,3,Saibaba Colony,Unfurnished,Yes,4,103.26
+2085,2,Ukkadam,Fully-Furnished,Yes,12,78.7
+1581,4,Saravanampatti,Fully-Furnished,No,17,57.22
+823,4,Saibaba Colony,Fully-Furnished,No,20,36.76
+1496,2,Town Hall,Semi-Furnished,Yes,14,57
+806,4,Town Hall,Fully-Furnished,Yes,16,31.28
+1017,4,Town Hall,Fully-Furnished,Yes,4,51.87
+1565,2,RS Puram,Fully-Furnished,No,15,72.3
+839,2,Singanallur,Semi-Furnished,Yes,1,40.79
+1293,4,Saibaba Colony,Unfurnished,No,2,71.99
+2357,4,Gandhipuram,Unfurnished,No,17,82.49
+1138,3,Ukkadam,Unfurnished,Yes,9,42.13
+1617,4,Singanallur,Semi-Furnished,No,3,71.82
+1307,2,Saibaba Colony,Semi-Furnished,Yes,18,58.5
+1934,2,Peelamedu,Unfurnished,Yes,20,73.92
+920,2,Saibaba Colony,Unfurnished,No,2,51.23
+1852,2,Town Hall,Fully-Furnished,No,6,86.05
+1904,2,Saravanampatti,Unfurnished,No,13,66.22
+1189,2,Saibaba Colony,Fully-Furnished,No,11,59.17
+1667,3,Saravanampatti,Fully-Furnished,Yes,20,63.35
+2123,2,RS Puram,Semi-Furnished,No,3,125.72
+1309,2,Peelamedu,Fully-Furnished,No,4,68.88
+1664,2,Town Hall,Semi-Furnished,Yes,2,84.54
+1707,4,Saibaba Colony,Unfurnished,Yes,2,99.8
+2343,2,Gandhipuram,Semi-Furnished,No,15,86.11
+1237,3,RS Puram,Unfurnished,No,0,74.22
+1599,3,Saravanampatti,Semi-Furnished,No,17,55.24
+2155,4,Saravanampatti,Unfurnished,Yes,9,87.21
+1245,2,RS Puram,Fully-Furnished,No,1,80.53
+902,4,Saravanampatti,Fully-Furnished,Yes,1,47.99
+1840,2,Gandhipuram,Unfurnished,Yes,7,83.08
+1626,2,Peelamedu,Fully-Furnished,Yes,19,68.36
+967,3,Singanallur,Semi-Furnished,Yes,10,38.38
+1288,3,Ukkadam,Unfurnished,No,14,39.88
+1447,2,RS Puram,Semi-Furnished,Yes,2,91.89
+1901,2,Town Hall,Unfurnished,No,2,87.6
+1300,3,Town Hall,Unfurnished,No,17,43.68
+2240,3,RS Puram,Fully-Furnished,No,3,138.97
+1075,3,Saibaba Colony,Unfurnished,Yes,8,54.99
+1377,4,Peelamedu,Fully-Furnished,No,6,69.31
+2207,4,Town Hall,Fully-Furnished,No,8,97.88
+904,2,Ukkadam,Semi-Furnished,Yes,0,42.86
+1483,2,Town Hall,Unfurnished,No,17,49.83
+2245,3,RS Puram,Unfurnished,Yes,4,130.12
+1917,2,Singanallur,Fully-Furnished,Yes,13,73.73
+1061,2,Town Hall,Semi-Furnished,Yes,11,43.8
+1230,4,Peelamedu,Fully-Furnished,Yes,11,57.62
+2397,4,Ukkadam,Fully-Furnished,Yes,7,102.38
+1132,2,Ukkadam,Unfurnished,Yes,10,40.89
+2402,3,Peelamedu,Semi-Furnished,Yes,3,129.44
+1583,2,Saravanampatti,Unfurnished,Yes,14,56.25
+1516,3,Peelamedu,Unfurnished,Yes,6,72.84
+1616,3,Town Hall,Unfurnished,No,11,60.5
+2113,4,Ukkadam,Fully-Furnished,No,0,99.94
+1036,3,Gandhipuram,Fully-Furnished,No,1,55.84
+1022,4,Ukkadam,Semi-Furnished,No,13,34.15
+2041,4,Saibaba Colony,Semi-Furnished,Yes,8,109.63
+890,4,Ukkadam,Unfurnished,Yes,11,31.34
+1683,2,Singanallur,Fully-Furnished,No,3,78.31
+2274,3,Town Hall,Fully-Furnished,No,10,96.05
+1624,4,Town Hall,Fully-Furnished,Yes,6,79.23
+1661,4,Ukkadam,Fully-Furnished,Yes,19,57.75
+1965,3,Ukkadam,Fully-Furnished,Yes,9,80.03
+1387,2,Ukkadam,Fully-Furnished,No,14,47.24
+1704,3,Peelamedu,Fully-Furnished,No,5,87.72
+2149,2,Town Hall,Fully-Furnished,No,2,108.93
+2476,2,Town Hall,Unfurnished,Yes,4,114.81
+850,2,Peelamedu,Semi-Furnished,Yes,14,35.09
+1648,4,Peelamedu,Fully-Furnished,No,15,65.99
+1618,2,Gandhipuram,Fully-Furnished,Yes,3,87.83
+2394,3,Peelamedu,Unfurnished,No,1,122
+1941,2,Saibaba Colony,Semi-Furnished,Yes,14,89.36
+2167,4,Singanallur,Semi-Furnished,No,17,71.67
+1713,2,Saravanampatti,Semi-Furnished,No,7,72.7
+2105,3,Saravanampatti,Fully-Furnished,Yes,8,95.99
+1700,2,Town Hall,Unfurnished,No,10,65.28
+1454,4,Saibaba Colony,Unfurnished,Yes,7,76.15
+1584,4,Gandhipuram,Fully-Furnished,Yes,2,87.82
+1649,3,Singanallur,Fully-Furnished,No,13,60.4
+927,2,Ukkadam,Semi-Furnished,Yes,18,30.76
+1579,3,RS Puram,Semi-Furnished,No,12,75.6
+1658,4,Peelamedu,Semi-Furnished,Yes,8,79.84
+1692,3,RS Puram,Semi-Furnished,No,12,81.01
+2283,2,Saravanampatti,Unfurnished,Yes,12,85.63
+2012,4,RS Puram,Unfurnished,No,4,111.06
+1745,2,RS Puram,Semi-Furnished,No,10,87.95
+1233,3,Singanallur,Semi-Furnished,No,8,48.94
+2340,3,Town Hall,Unfurnished,No,0,112.32
+2334,4,RS Puram,Semi-Furnished,Yes,20,108.08
+940,4,RS Puram,Unfurnished,Yes,6,52.11
+841,4,Gandhipuram,Unfurnished,Yes,15,30.91
+2171,2,Peelamedu,Semi-Furnished,No,11,92.46
+1143,4,Saibaba Colony,Unfurnished,No,3,62.32
+1985,2,Town Hall,Fully-Furnished,No,12,79.65
+2264,2,Saibaba Colony,Fully-Furnished,Yes,3,142.57
+2227,3,Saibaba Colony,Fully-Furnished,Yes,11,116.37
+1891,3,Singanallur,Unfurnished,No,0,85.09
+1660,3,Saibaba Colony,Semi-Furnished,No,20,70.77
+2497,3,Gandhipuram,Semi-Furnished,Yes,16,96.35
+2132,3,Saravanampatti,Semi-Furnished,No,18,73.65
+1349,3,Peelamedu,Unfurnished,No,14,50.51
+1299,3,Ukkadam,Semi-Furnished,Yes,15,43.11
+1465,2,Saravanampatti,Unfurnished,No,8,57.84
+1497,3,Town Hall,Fully-Furnished,Yes,16,58.1
+1191,2,Peelamedu,Fully-Furnished,No,15,47.69
+1937,2,Saravanampatti,Fully-Furnished,No,14,72.1
+2423,2,Saibaba Colony,Semi-Furnished,Yes,12,117.75
+2216,2,Town Hall,Fully-Furnished,No,15,81.9
+1933,4,Singanallur,Semi-Furnished,No,11,71.24
+2239,3,Town Hall,Semi-Furnished,No,7,97.05
+1047,4,Peelamedu,Semi-Furnished,Yes,17,42.02
+2360,4,Gandhipuram,Unfurnished,Yes,15,86.73
+1366,4,Town Hall,Unfurnished,Yes,9,56.45
+1265,3,Gandhipuram,Semi-Furnished,Yes,17,48.81
+1059,3,RS Puram,Unfurnished,No,4,58.46
+2106,3,Saibaba Colony,Unfurnished,No,15,85.5
+1780,3,Singanallur,Unfurnished,Yes,8,70.65
+1778,2,Saibaba Colony,Semi-Furnished,No,2,103.95
+1981,4,RS Puram,Unfurnished,Yes,18,87.36
+1422,2,Peelamedu,Unfurnished,No,19,51.76
+2020,4,Peelamedu,Fully-Furnished,No,14,83.19
+1706,3,Ukkadam,Semi-Furnished,Yes,19,56.61
+2315,2,Peelamedu,Fully-Furnished,Yes,8,116.79
+2152,2,Gandhipuram,Unfurnished,Yes,17,79.09
+953,2,RS Puram,Semi-Furnished,No,19,42.03
+1762,3,RS Puram,Unfurnished,No,9,86.69
+2239,3,Saibaba Colony,Fully-Furnished,Yes,8,125.99
+2413,4,Peelamedu,Semi-Furnished,Yes,17,96.84
+1260,4,Gandhipuram,Semi-Furnished,Yes,2,66.68
+922,2,Town Hall,Fully-Furnished,No,14,35.05
+1054,3,Town Hall,Fully-Furnished,No,8,46.75
+1824,4,Saravanampatti,Semi-Furnished,Yes,19,66.16
+881,3,Singanallur,Fully-Furnished,No,0,43.61
+987,2,RS Puram,Fully-Furnished,No,18,45.6
+882,2,Saravanampatti,Fully-Furnished,No,8,38.3
+1171,4,Ukkadam,Fully-Furnished,No,2,53.17
+1762,3,Ukkadam,Semi-Furnished,No,3,74.78
+1129,3,Ukkadam,Fully-Furnished,No,9,43.79
+2156,3,RS Puram,Semi-Furnished,Yes,10,114.1
+1316,3,Saibaba Colony,Semi-Furnished,Yes,17,58.91
+1746,3,RS Puram,Unfurnished,No,19,73.33
+2349,3,Saravanampatti,Unfurnished,Yes,8,97.38
+1924,2,Town Hall,Semi-Furnished,No,3,91.15
+859,4,Peelamedu,Fully-Furnished,Yes,9,42.31
+1928,2,Ukkadam,Unfurnished,Yes,3,81.83
+1745,2,Gandhipuram,Semi-Furnished,No,16,64.13
+2244,3,Ukkadam,Semi-Furnished,No,7,87.13
+1735,4,Gandhipuram,Semi-Furnished,Yes,19,66.95
+1840,4,Gandhipuram,Unfurnished,No,13,68.08
+1496,4,Town Hall,Unfurnished,No,9,58.88
+2002,4,Saravanampatti,Unfurnished,No,17,65.87
+1791,3,Singanallur,Fully-Furnished,No,14,63.83
+1459,2,Peelamedu,Fully-Furnished,No,7,71.77
+2388,3,RS Puram,Semi-Furnished,No,12,114.34
+1590,4,Gandhipuram,Semi-Furnished,Yes,4,80.64
+1828,4,Singanallur,Unfurnished,No,3,77.32
+1877,3,RS Puram,Fully-Furnished,Yes,13,96.26
+2140,2,Saibaba Colony,Semi-Furnished,No,10,104.26
+2076,4,Ukkadam,Fully-Furnished,Yes,10,82.48
+2181,4,Ukkadam,Semi-Furnished,No,17,68.93
+873,4,Saibaba Colony,Unfurnished,No,7,43.55
+2329,2,Ukkadam,Unfurnished,Yes,14,75.71
+1140,4,Town Hall,Unfurnished,Yes,10,45.96
+2430,2,Town Hall,Semi-Furnished,No,13,90.63
+1098,2,Ukkadam,Fully-Furnished,Yes,5,49.08
+1158,2,Ukkadam,Fully-Furnished,Yes,15,40.26
+1994,2,Peelamedu,Semi-Furnished,No,14,78.39
+1322,4,RS Puram,Semi-Furnished,No,17,58.3
+1123,2,Saravanampatti,Semi-Furnished,No,20,38.79
+1668,4,Town Hall,Semi-Furnished,No,6,73.98
+1587,3,Saibaba Colony,Unfurnished,No,18,64.43
+1535,4,Town Hall,Fully-Furnished,No,0,81.05
+2499,4,Ukkadam,Semi-Furnished,Yes,18,82.93
+2204,4,RS Puram,Fully-Furnished,No,9,119.28
+2388,2,Singanallur,Unfurnished,Yes,19,78.98
+1313,4,Gandhipuram,Fully-Furnished,Yes,20,53.08
+2123,2,Town Hall,Semi-Furnished,Yes,18,78.64
+1547,4,Gandhipuram,Unfurnished,No,10,61.88
+2330,3,Gandhipuram,Unfurnished,Yes,17,85.63
+1549,4,Town Hall,Unfurnished,No,15,52.05
+2451,3,Singanallur,Unfurnished,No,2,105.88
+1088,2,Ukkadam,Fully-Furnished,No,2,49.4
+2419,3,RS Puram,Semi-Furnished,Yes,14,115.21
+1554,4,Town Hall,Fully-Furnished,No,20,57.44
+1560,2,Peelamedu,Semi-Furnished,Yes,19,62.6
+1949,3,Peelamedu,Fully-Furnished,Yes,20,81.94
+2487,3,Town Hall,Fully-Furnished,No,3,123.43
+1086,2,RS Puram,Semi-Furnished,No,3,64.31
+999,2,Gandhipuram,Semi-Furnished,No,11,40.91
+2173,4,Ukkadam,Fully-Furnished,Yes,13,79.86
+2141,2,Saravanampatti,Fully-Furnished,No,8,92.98
+867,4,Singanallur,Unfurnished,No,14,28.09
+1283,3,Saibaba Colony,Fully-Furnished,No,17,57.3
+2120,3,RS Puram,Semi-Furnished,No,6,117.53
+1050,3,Saibaba Colony,Fully-Furnished,Yes,20,49.24
+2109,4,RS Puram,Unfurnished,No,7,108.82
+1057,4,Peelamedu,Unfurnished,Yes,18,40.4
+1242,2,Singanallur,Unfurnished,Yes,8,49.29
+1096,2,Town Hall,Unfurnished,Yes,0,55.24
+1069,2,Singanallur,Unfurnished,No,0,48.1
+1156,3,RS Puram,Unfurnished,No,16,48.55
+1032,4,Saibaba Colony,Semi-Furnished,No,11,49.02
+1851,4,Saibaba Colony,Semi-Furnished,Yes,19,82.85
+888,4,Town Hall,Semi-Furnished,Yes,1,46.05
+1780,3,Ukkadam,Fully-Furnished,Yes,15,61.88
+2258,3,Saibaba Colony,Unfurnished,No,19,91.67
+1103,2,Gandhipuram,Semi-Furnished,No,12,44.01
+2023,4,Town Hall,Semi-Furnished,No,3,95.84
+2424,4,Saibaba Colony,Fully-Furnished,Yes,13,120.16
+1724,2,Ukkadam,Semi-Furnished,No,12,59.16
+1651,4,Saibaba Colony,Semi-Furnished,No,10,80.44
+2162,3,Singanallur,Unfurnished,No,2,93.4
+986,2,Saibaba Colony,Semi-Furnished,Yes,11,49.18
+2462,2,RS Puram,Fully-Furnished,No,3,152.74
+1641,3,Ukkadam,Fully-Furnished,Yes,9,66.83
+2029,3,Singanallur,Unfurnished,Yes,4,88.2
+2144,3,Peelamedu,Unfurnished,No,17,78.04
+1552,2,Town Hall,Fully-Furnished,Yes,13,63.67
+1948,4,RS Puram,Fully-Furnished,No,0,128.57
+1169,3,Town Hall,Semi-Furnished,No,0,58.92
+1171,2,Ukkadam,Unfurnished,Yes,20,37.01
+862,2,Peelamedu,Semi-Furnished,No,14,33.89
+1498,2,Singanallur,Semi-Furnished,No,18,49.55
+2021,2,RS Puram,Unfurnished,Yes,19,89.13
+901,4,Saibaba Colony,Semi-Furnished,No,13,40.6
+1794,4,Saravanampatti,Semi-Furnished,No,6,77.91
+2346,4,Saibaba Colony,Semi-Furnished,No,3,134.3
+1380,4,Saravanampatti,Fully-Furnished,No,1,69.92
+1251,3,RS Puram,Unfurnished,Yes,9,64.63
+1232,2,Town Hall,Semi-Furnished,No,3,58.37
+815,3,Ukkadam,Unfurnished,Yes,12,27.97
+1890,4,Peelamedu,Fully-Furnished,No,2,103.78
+1613,4,RS Puram,Semi-Furnished,Yes,14,76.82
+959,3,Ukkadam,Fully-Furnished,No,20,31.75
+1655,3,Saibaba Colony,Semi-Furnished,Yes,10,84.66
+1151,4,Saravanampatti,Fully-Furnished,No,2,57.13
+1694,2,Peelamedu,Semi-Furnished,No,16,64.74
+961,3,Town Hall,Fully-Furnished,No,7,43.64
+1482,2,Saibaba Colony,Fully-Furnished,Yes,16,69.5
+1844,2,Singanallur,Semi-Furnished,Yes,7,78.68
+1010,2,Town Hall,Unfurnished,Yes,19,35.63
+1113,4,Saibaba Colony,Unfurnished,No,14,46.48
+2345,4,Saravanampatti,Fully-Furnished,No,20,84.87
+1447,2,Saravanampatti,Unfurnished,No,14,48.97
+2093,3,Town Hall,Fully-Furnished,Yes,11,90.51
+1839,2,Town Hall,Semi-Furnished,No,1,90.83
+916,3,Town Hall,Unfurnished,Yes,19,32.32
+2016,4,Ukkadam,Semi-Furnished,Yes,14,68.81
+2458,4,Peelamedu,Semi-Furnished,No,16,93.94
+1108,2,Saravanampatti,Unfurnished,No,2,49.99
+1833,4,Gandhipuram,Unfurnished,Yes,14,69.29
+1699,4,Gandhipuram,Semi-Furnished,No,9,73.14
+1593,3,Singanallur,Fully-Furnished,Yes,20,57.96
+2125,3,Saibaba Colony,Semi-Furnished,Yes,17,95.12
+2189,3,Town Hall,Semi-Furnished,Yes,10,92.67
+966,4,Gandhipuram,Semi-Furnished,No,20,35.5
+2230,4,Ukkadam,Unfurnished,Yes,9,82.56
+1944,3,Singanallur,Unfurnished,Yes,20,64.3
+2173,3,Singanallur,Unfurnished,No,9,80.18
+1169,2,Singanallur,Semi-Furnished,Yes,7,49.88
+1081,2,Saibaba Colony,Semi-Furnished,Yes,16,48.39
+2378,4,RS Puram,Fully-Furnished,No,19,109.86
+1068,4,Ukkadam,Unfurnished,Yes,5,43.4
+2218,4,Gandhipuram,Fully-Furnished,No,1,119.55
+1641,3,Peelamedu,Semi-Furnished,No,14,64.51
+1279,4,Peelamedu,Semi-Furnished,No,6,61.45
+1553,4,Saravanampatti,Semi-Furnished,No,12,58.25
+1829,4,Ukkadam,Unfurnished,Yes,19,57.81
+1083,3,RS Puram,Fully-Furnished,No,11,55.75
+1935,2,Saibaba Colony,Semi-Furnished,Yes,5,111.36
+1358,3,Gandhipuram,Semi-Furnished,Yes,7,64.38
+2472,3,Singanallur,Unfurnished,No,1,109.02
+1611,4,Singanallur,Unfurnished,No,2,69.6
+1567,2,RS Puram,Semi-Furnished,Yes,20,72.56
+1486,2,Gandhipuram,Unfurnished,No,15,52.01
+2225,2,Saravanampatti,Semi-Furnished,Yes,2,110.68
+838,3,Peelamedu,Unfurnished,No,3,40.96
+2389,3,Peelamedu,Semi-Furnished,Yes,1,134.22
+1288,3,Saravanampatti,Unfurnished,Yes,15,44.49
+2022,4,RS Puram,Fully-Furnished,Yes,4,128.91
+1396,3,RS Puram,Fully-Furnished,No,7,79.24
+1968,3,Gandhipuram,Fully-Furnished,Yes,16,79.56
+1538,2,RS Puram,Semi-Furnished,No,1,94.96
+2101,3,Singanallur,Semi-Furnished,Yes,11,81.3
+2414,2,Singanallur,Unfurnished,Yes,18,79.84
+2305,3,Gandhipuram,Unfurnished,No,17,80.67
+1493,4,Gandhipuram,Fully-Furnished,No,15,57.48
+2093,2,Gandhipuram,Unfurnished,No,1,102.56
+1400,2,RS Puram,Unfurnished,Yes,10,70.56
+1435,4,Ukkadam,Fully-Furnished,No,8,57.02
+874,4,Peelamedu,Semi-Furnished,No,1,46.77
+2142,3,Town Hall,Unfurnished,No,13,76.08
+1619,4,Saravanampatti,Semi-Furnished,No,5,71.91
+1816,4,Saravanampatti,Semi-Furnished,No,2,86.03
+2289,3,Saibaba Colony,Semi-Furnished,Yes,17,102.46
+1401,3,Saibaba Colony,Unfurnished,No,9,66.63
+1427,3,Ukkadam,Unfurnished,No,11,47.86
+1715,2,Singanallur,Fully-Furnished,No,8,71.31
+2109,2,Saibaba Colony,Fully-Furnished,No,11,104.95
+1850,4,Gandhipuram,Unfurnished,Yes,19,67.99
+2188,3,RS Puram,Unfurnished,Yes,7,118.55
+2394,4,Singanallur,Semi-Furnished,No,18,79.18
+866,4,Gandhipuram,Fully-Furnished,No,11,37.15
+1561,3,Saibaba Colony,Fully-Furnished,Yes,16,73.2
+1551,3,Singanallur,Fully-Furnished,No,7,66.03
+1032,2,Gandhipuram,Semi-Furnished,No,17,37.93
+1041,3,Town Hall,Fully-Furnished,No,6,48.37
+2053,3,Saravanampatti,Unfurnished,Yes,4,93.21
+951,3,Gandhipuram,Fully-Furnished,No,2,50.21
+2459,4,Singanallur,Fully-Furnished,No,2,116.85
+1926,4,Town Hall,Semi-Furnished,Yes,20,71.35
+1156,3,Peelamedu,Unfurnished,Yes,4,58.07
+1284,3,RS Puram,Semi-Furnished,No,14,58.24
+2445,4,Gandhipuram,Fully-Furnished,Yes,2,135.55
+1433,3,Saravanampatti,Fully-Furnished,No,13,54.82
+2486,4,Saibaba Colony,Unfurnished,No,20,100.93
+951,3,Saravanampatti,Fully-Furnished,No,4,45.23
+2497,4,Gandhipuram,Unfurnished,No,16,87.39
+913,2,Gandhipuram,Semi-Furnished,Yes,5,45.3
+1460,4,Peelamedu,Semi-Furnished,No,2,76.53
+1313,2,Town Hall,Unfurnished,No,19,44.12
+1892,2,Gandhipuram,Fully-Furnished,Yes,5,98.34
+2149,4,Singanallur,Fully-Furnished,Yes,0,111.69
+966,2,Town Hall,Fully-Furnished,Yes,18,37.49
+1653,4,RS Puram,Semi-Furnished,No,20,72.9
+1418,3,Peelamedu,Fully-Furnished,No,9,66.51
+1728,2,RS Puram,Unfurnished,No,13,76.72
+1791,3,Peelamedu,Semi-Furnished,Yes,10,82.14
+2271,3,Singanallur,Semi-Furnished,Yes,11,87.88
+1854,4,Saibaba Colony,Semi-Furnished,Yes,14,85.36
+1050,3,Saravanampatti,Unfurnished,Yes,3,48.71
+903,3,Ukkadam,Fully-Furnished,No,7,36.73
+1127,3,Singanallur,Unfurnished,Yes,15,37.28
+1854,3,Saravanampatti,Semi-Furnished,No,0,91.49
+984,3,Saravanampatti,Unfurnished,Yes,18,33.99
+1522,2,RS Puram,Semi-Furnished,No,19,67.12
+2139,4,Saravanampatti,Semi-Furnished,Yes,3,104.19
+1682,2,Town Hall,Fully-Furnished,No,12,67.5
+1549,2,Ukkadam,Unfurnished,Yes,11,54.55
+1933,3,Saibaba Colony,Semi-Furnished,No,17,82.4
+1372,4,Saibaba Colony,Unfurnished,Yes,12,63.5
+1564,3,Singanallur,Unfurnished,Yes,19,51.73
+1842,3,RS Puram,Unfurnished,Yes,4,106.76
+2261,3,Saravanampatti,Fully-Furnished,No,4,107.54
+2041,4,Gandhipuram,Semi-Furnished,No,5,96.44
+1604,4,Town Hall,Fully-Furnished,No,16,59.28
+2496,4,Saravanampatti,Fully-Furnished,No,15,90.33
+2470,2,Singanallur,Semi-Furnished,Yes,13,90.68
+1995,3,RS Puram,Fully-Furnished,No,8,110.6
+2142,4,Peelamedu,Fully-Furnished,Yes,18,90.05
+1783,2,Ukkadam,Unfurnished,Yes,1,78.89
+1972,4,Saibaba Colony,Unfurnished,Yes,14,86.47
+1442,3,Gandhipuram,Semi-Furnished,Yes,13,58.82
+1827,4,Saravanampatti,Fully-Furnished,Yes,4,91.24
+1862,2,Singanallur,Fully-Furnished,No,16,64.52
+1571,3,Gandhipuram,Semi-Furnished,No,17,57.73
+1525,4,Town Hall,Fully-Furnished,No,6,70.86
+1304,3,Town Hall,Unfurnished,No,9,51.33
+2243,2,Saravanampatti,Semi-Furnished,No,11,86.34
+1947,4,Town Hall,Semi-Furnished,Yes,18,72.12
+2185,4,Ukkadam,Semi-Furnished,No,4,90.76
+1394,2,Town Hall,Fully-Furnished,Yes,11,60.28
+1705,4,Town Hall,Fully-Furnished,No,6,79.22
+1213,4,Town Hall,Fully-Furnished,No,4,58.92
+1023,4,Peelamedu,Unfurnished,Yes,16,39.1
+1262,4,Peelamedu,Unfurnished,Yes,13,50.99
+1476,4,Saravanampatti,Unfurnished,Yes,0,72.84
+1927,2,Ukkadam,Fully-Furnished,No,15,63.8
+2132,2,Town Hall,Semi-Furnished,No,20,75.22
+921,2,Peelamedu,Fully-Furnished,Yes,5,49.78
+1655,2,RS Puram,Semi-Furnished,No,5,93.84
+2333,3,RS Puram,Unfurnished,No,18,97.99
+2034,2,Singanallur,Semi-Furnished,No,20,67.27
+1912,4,Saravanampatti,Unfurnished,No,8,75.49
+1194,2,Singanallur,Unfurnished,No,20,37.61
+1326,4,Gandhipuram,Unfurnished,No,9,54.37
+1962,4,Peelamedu,Unfurnished,No,13,75.5
+1855,3,Saibaba Colony,Semi-Furnished,Yes,5,106.76
+1087,3,Singanallur,Unfurnished,Yes,8,43.14
+1585,2,Saravanampatti,Semi-Furnished,No,9,64.14
+1992,4,RS Puram,Semi-Furnished,No,7,107.93
+927,4,Saibaba Colony,Semi-Furnished,No,5,50.81
+1630,4,Town Hall,Fully-Furnished,Yes,20,63.26
+1404,3,Peelamedu,Unfurnished,Yes,15,53.66
+1113,3,Singanallur,Semi-Furnished,No,17,36.81
+2442,4,Peelamedu,Unfurnished,Yes,16,93.33
+1714,4,Singanallur,Unfurnished,Yes,1,79.37
+2497,4,Peelamedu,Fully-Furnished,Yes,5,134.97
+1471,4,Saravanampatti,Unfurnished,Yes,18,50.82
+1801,2,Saravanampatti,Unfurnished,No,4,77.88
+1851,3,Saravanampatti,Fully-Furnished,Yes,17,70.34
+1746,4,Town Hall,Fully-Furnished,Yes,12,73.57
+1321,2,Peelamedu,Fully-Furnished,Yes,1,77.75
+1667,3,Saibaba Colony,Fully-Furnished,Yes,2,107.21
+1766,2,Town Hall,Semi-Furnished,Yes,4,85.98
+2368,4,Ukkadam,Semi-Furnished,No,14,76.98
+1573,3,Saibaba Colony,Fully-Furnished,Yes,20,73.76
+1512,2,Gandhipuram,Fully-Furnished,No,16,58.21
+1060,4,Peelamedu,Unfurnished,Yes,9,47.46
+1748,4,Ukkadam,Fully-Furnished,No,7,71.11
+1306,3,Singanallur,Unfurnished,No,6,51.72
+2284,2,RS Puram,Fully-Furnished,No,19,105.52
+2368,2,Peelamedu,Unfurnished,Yes,3,121.54
+2016,2,Saravanampatti,Fully-Furnished,Yes,7,94.12
+2316,2,Ukkadam,Semi-Furnished,Yes,17,76.86
+1244,2,Gandhipuram,Fully-Furnished,No,7,58.84
+2470,4,Singanallur,Fully-Furnished,No,7,105.15
+1418,2,Peelamedu,Semi-Furnished,No,8,65.04
+924,4,Gandhipuram,Fully-Furnished,No,17,35.57
+1815,2,Singanallur,Fully-Furnished,No,16,62.89
+1452,4,Ukkadam,Semi-Furnished,Yes,9,56.45
+1570,2,Saravanampatti,Unfurnished,Yes,9,63.53
+2249,2,Saravanampatti,Unfurnished,No,13,78.22
+1941,4,Gandhipuram,Semi-Furnished,Yes,8,89.88
+1216,3,Saibaba Colony,Semi-Furnished,No,2,71.09
+1896,4,Peelamedu,Unfurnished,No,12,74.93
+2179,4,RS Puram,Unfurnished,Yes,18,96.09
+2283,4,Peelamedu,Semi-Furnished,Yes,10,104.71
+1420,2,Peelamedu,Unfurnished,Yes,15,54.27
+1296,4,Peelamedu,Semi-Furnished,Yes,17,52.01
+1458,3,Ukkadam,Semi-Furnished,No,9,53.98
+1335,3,Saravanampatti,Semi-Furnished,Yes,15,48.42
+2359,3,Peelamedu,Semi-Furnished,No,13,95.31
+893,4,Peelamedu,Fully-Furnished,Yes,0,53.63
+1334,4,Ukkadam,Semi-Furnished,Yes,6,55.65
+1475,2,Ukkadam,Fully-Furnished,Yes,15,51.28
+1927,4,Singanallur,Semi-Furnished,No,20,63.74
+2314,3,Saravanampatti,Unfurnished,No,5,97.88
+1086,4,Saravanampatti,Unfurnished,Yes,16,37.52
+869,2,RS Puram,Unfurnished,No,4,47.97
+2091,2,Saibaba Colony,Fully-Furnished,Yes,0,140.08
+1247,4,Saravanampatti,Semi-Furnished,Yes,19,45.23
+2106,4,Saravanampatti,Fully-Furnished,No,0,108.88
+813,4,Ukkadam,Unfurnished,Yes,16,25.69
+2279,3,Town Hall,Unfurnished,No,5,98.45
+1019,2,Gandhipuram,Unfurnished,Yes,19,37.45
+1878,3,Singanallur,Semi-Furnished,No,2,85.19
+1564,3,Saravanampatti,Fully-Furnished,Yes,7,73.02
+1414,4,Saibaba Colony,Fully-Furnished,Yes,2,90.93
+1630,3,Ukkadam,Fully-Furnished,No,1,75.56
+2104,2,Gandhipuram,Unfurnished,No,13,77.85
+2120,3,Saibaba Colony,Fully-Furnished,Yes,7,122.14
+1232,4,Saravanampatti,Semi-Furnished,Yes,2,61.29
+2201,3,RS Puram,Unfurnished,No,0,132.06
+1224,4,Gandhipuram,Fully-Furnished,No,2,64.63
+1412,2,Peelamedu,Fully-Furnished,No,17,56.54
+1479,3,Gandhipuram,Fully-Furnished,Yes,16,59.79
+2326,3,RS Puram,Unfurnished,No,7,120.02
+955,3,Ukkadam,Semi-Furnished,Yes,20,31.69
+1359,3,Saravanampatti,Unfurnished,No,17,44.71
+1568,3,Gandhipuram,Fully-Furnished,No,2,82.79
+2381,4,Town Hall,Unfurnished,Yes,2,115.2
+1348,2,Ukkadam,Fully-Furnished,Yes,12,50.88
+1448,3,Saibaba Colony,Unfurnished,Yes,9,72.31
+1710,3,Town Hall,Unfurnished,Yes,2,82.74
+1183,3,Saravanampatti,Fully-Furnished,No,3,57.49
+853,2,Singanallur,Fully-Furnished,Yes,19,31.03
+2024,3,Ukkadam,Unfurnished,No,13,64.4
+1594,2,Peelamedu,Fully-Furnished,Yes,12,72.76
+1147,2,Town Hall,Semi-Furnished,No,15,40.47
+1098,2,Gandhipuram,Semi-Furnished,No,13,42.66
+1413,3,Saibaba Colony,Semi-Furnished,No,7,74
+2276,4,Saravanampatti,Fully-Furnished,Yes,14,88.96
+1019,2,Town Hall,Unfurnished,No,10,39.13
+2070,3,Singanallur,Semi-Furnished,No,13,72.38
+2470,4,Gandhipuram,Semi-Furnished,No,19,90.77
+2223,2,Saravanampatti,Semi-Furnished,Yes,12,87.54
+1453,3,Saravanampatti,Fully-Furnished,Yes,10,63.1
+1570,3,Ukkadam,Semi-Furnished,Yes,18,52.1
+1209,4,Gandhipuram,Fully-Furnished,Yes,14,50.27
+2250,2,Saravanampatti,Semi-Furnished,Yes,13,86.28
+2178,3,Gandhipuram,Fully-Furnished,No,7,103.02
+1317,4,Gandhipuram,Fully-Furnished,No,12,55.05
+951,3,Saravanampatti,Fully-Furnished,No,17,34.42
+1837,4,Ukkadam,Fully-Furnished,Yes,11,71.16
+2236,4,Saibaba Colony,Unfurnished,Yes,11,106.21
+1140,4,RS Puram,Fully-Furnished,No,10,60.19
+2430,3,Saibaba Colony,Unfurnished,Yes,8,124.31
+1254,4,Peelamedu,Semi-Furnished,No,12,52.04
+1748,4,Gandhipuram,Semi-Furnished,Yes,15,67.45

@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coimbatore House Price Predictor</title>
+    <style>
+        :root {
+            --primary-color: #4a6fa5;
+            --secondary-color: #166088;
+            --accent-color: #4fc3f7;
+            --light-color: #f8f9fa;
+            --dark-color: #343a40;
+            --success-color: #28a745;
+            --error-color: #dc3545;
+        }
+        
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background-color: #f5f5f5;
+            color: var(--dark-color);
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 2rem;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+        
+        h1 {
+            text-align: center;
+            color: var(--secondary-color);
+            margin-bottom: 1.5rem;
+        }
+        
+        .description {
+            text-align: center;
+            margin-bottom: 2rem;
+            color: #666;
+        }
+        
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+            color: var(--secondary-color);
+        }
+        
+        input, select {
+            width: 100%;
+            padding: 0.75rem;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 1rem;
+            transition: border 0.3s;
+        }
+        
+        input:focus, select:focus {
+            outline: none;
+            border-color: var(--accent-color);
+            box-shadow: 0 0 0 3px rgba(79, 195, 247, 0.2);
+        }
+        
+        .btn {
+            display: block;
+            width: 100%;
+            padding: 0.75rem;
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        
+        .btn:hover {
+            background-color: var(--secondary-color);
+        }
+        
+        .result {
+            margin-top: 2rem;
+            padding: 1rem;
+            border-radius: 5px;
+            text-align: center;
+            font-size: 1.2rem;
+            font-weight: 600;
+            display: none;
+        }
+        
+        .success {
+            background-color: rgba(40, 167, 69, 0.1);
+            color: var(--success-color);
+            border: 1px solid var(--success-color);
+        }
+        
+        .error {
+            background-color: rgba(220, 53, 69, 0.1);
+            color: var(--error-color);
+            border: 1px solid var(--error-color);
+        }
+        
+        .form-row {
+            display: flex;
+            gap: 1rem;
+        }
+        
+        .form-row .form-group {
+            flex: 1;
+        }
+        
+        @media (max-width: 600px) {
+            .container {
+                padding: 1rem;
+                margin: 1rem;
+            }
+            
+            .form-row {
+                flex-direction: column;
+                gap: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Coimbatore House Price Predictor</h1>
+        <p class="description">Enter the property details to get an estimated price prediction</p>
+        
+        <form id="predictionForm">
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="Area_sqft">Area (sq.ft)</label>
+                    <input type="number" id="Area_sqft" name="Area_sqft" required min="100" placeholder="e.g. 1200">
+                </div>
+                
+                <div class="form-group">
+                    <label for="BHK">BHK</label>
+                    <select id="BHK" name="BHK" required>
+                        <option value="">Select</option>
+                        <option value="1">1 BHK</option>
+                        <option value="2">2 BHK</option>
+                        <option value="3">3 BHK</option>
+                        <option value="4">4 BHK</option>
+                        <option value="5">5 BHK</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="form-group">
+                <label for="Location">Location</label>
+                <select id="Location" name="Location" required>
+                    <option value="">Select Location</option>
+                    <option value="RS Puram">RS Puram</option>
+                    <option value="Saibaba Colony">Saibaba Colony</option>
+                    <option value="Peelamedu">Peelamedu</option>
+                    <option value="Gandhipuram">Gandhipuram</option>
+                    <option value="Race Course">Race Course</option>
+                    <option value="Ukkadam">Ukkadam</option>
+                    <option value="Singanallur">Singanallur</option>
+                    <option value="Podanur">Podanur</option>
+                </select>
+            </div>
+            
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="Furnishing">Furnishing</label>
+                    <select id="Furnishing" name="Furnishing" required>
+                        <option value="">Select</option>
+                        <option value="Furnished">Furnished</option>
+                        <option value="Semi-Furnished">Semi-Furnished</option>
+                        <option value="Unfurnished">Unfurnished</option>
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label for="Parking">Parking</label>
+                    <select id="Parking" name="Parking" required>
+                        <option value="">Select</option>
+                        <option value="1">Yes</option>
+                        <option value="0">No</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="form-group">
+                <label for="Age">Property Age</label>
+                <select id="Age" name="Age" required>
+                    <option value="">Select</option>
+                    <option value="New">New (0-5 years)</option>
+                    <option value="Moderate">Moderate (5-15 years)</option>
+                    <option value="Old">Old (15+ years)</option>
+                </select>
+            </div>
+            
+            <button type="submit" class="btn">Predict Price</button>
+        </form>
+        
+        <div id="result" class="result"></div>
+    </div>
+
+   <script>
+    document.getElementById('predictionForm').addEventListener('submit', async function(e) {
+        e.preventDefault();
+        
+        const form = e.target;
+        const resultDiv = document.getElementById('result');
+        resultDiv.style.display = 'none';
+        
+        // Show loading state
+        const submitBtn = form.querySelector('button[type="submit"]');
+        const originalBtnText = submitBtn.textContent;
+        submitBtn.textContent = "Predicting...";
+        submitBtn.disabled = true;
+        
+        try {
+            // Get all form data
+            const formData = {
+                Area_sqft: document.getElementById('Area_sqft').value,
+                BHK: document.getElementById('BHK').value,
+                Location: document.getElementById('Location').value,
+                Furnishing: document.getElementById('Furnishing').value,
+                Parking: document.getElementById('Parking').value,
+                Age: document.getElementById('Age').value
+            };
+
+            // Log the data being sent
+            console.log('Sending data:', formData);
+            
+            const response = await fetch('/predict', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: new URLSearchParams(formData).toString()
+            });
+
+            // Check if the response is OK
+            if (!response.ok) {
+                const errorData = await response.json().catch(() => ({}));
+                throw new Error(errorData.error || `HTTP error! status: ${response.status}`);
+            }
+
+            const data = await response.json();
+            console.log('Received response:', data);
+            
+            if (data.success) {
+                resultDiv.className = 'result success';
+                resultDiv.textContent = `Predicted Price: ₹${data.prediction} Lakhs`;
+            } else {
+                resultDiv.className = 'result error';
+                resultDiv.textContent = `Error: ${data.error}`;
+            }
+            resultDiv.style.display = 'block';
+            
+        } catch (error) {
+            console.error('Prediction error:', error);
+            resultDiv.className = 'result error';
+            resultDiv.textContent = `Error: ${error.message}`;
+            resultDiv.style.display = 'block';
+        } finally {
+            submitBtn.textContent = originalBtnText;
+            submitBtn.disabled = false;
+        }
+    });
+</script>
+</body>
+</html>
